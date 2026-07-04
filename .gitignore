@@ -7,8 +7,6 @@ Cargo.lock.bak
 # Environment / secrets
 .env
 **/.env
-.env.*
-**/.env.*
 
 # Editor / OS
 .vscode/
